@@ -1,0 +1,35 @@
+/* Licensed under the Tumbolia Public License. See footer for details. */
+
+body {
+    font-family:        Verdana;
+    font-size:          120%;
+    margin:             1em 3em;
+}
+
+h1, h2 {
+    padding-bottom:     0.2em;
+    border-bottom:      thick solid #AAA;
+    text-shadow:        0.1em 0.1em 0.2em #aaa;
+    color:              #33A;
+}
+
+a:hover {
+    background-color:   #FFA;
+    text-shadow:        0.1em 0.1em 0.2em #aaa;
+}
+
+/*
+#-------------------------------------------------------------------------------
+# Copyright (c) 2013 Patrick Mueller
+#
+# Tumbolia Public License
+#
+# Copying and distribution of this file, with or without modification, are
+# permitted in any medium without royalty provided the copyright notice and
+# this notice are preserved.
+#
+# TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+#
+#   0. opan saurce LOL
+#-------------------------------------------------------------------------------
+*/

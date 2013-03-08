@@ -1,10 +1,10 @@
 Introduction to Music Production - Assignment 1
 ================================================================================
 
-<div class=float-right>
-2013-03-06 - <a href="http://goo.gl/yxM5u">http://goo.gl/yxM5u</a>
-</div>
-<br clear=all>
+March 8, 2013
+
+Record an acoustic/electric ukulele into Ableton Live
+--------------------------------------------------------------------------------
 
 I'm [Patrick Mueller](http://muellerware.org) from Raleigh, North Carolina.
 This lesson is for week 1 of 
@@ -18,7 +18,7 @@ Equipment used for this lesson:
 
 * [Lanikai LU-21TE/BK](http://lanikaiukes.com/laniblog/ukuleles/discontinued/lu-21tebk-tenor-size-ae-black-ukulele/) acoustic/electic ukulele
 * Standard electric guitar cable aka TS cable aka instrument cable
-* Line 6 Toneport guitar to USB interface box (see bottom for more info)
+* Line 6 Toneport guitar to USB interface box (see [below](#about-toneport) for more info)
 * Standard USB cable
 * [Ableton Live 9](https://www.ableton.com/en/live/)
 * MacBook Pro
@@ -33,7 +33,7 @@ To get started, let's hook all the cables up.
 There you go, the signal from the ukulele can now make it all the way into your
 computer.
 
-trouble-shooting
+Trouble-Shooting
 --------------------------------------------------------------------------------
 
 * Are the batteries in your ukulele working?  Try some new ones.
@@ -52,8 +52,9 @@ trouble-shooting
     * [movies showing you how to get started](https://www.ableton.com/en/help/learn-live/#getting-started)
     * [general questions and answers about Ableton Live](https://www.ableton.com/en/help/)
 
+<span id="about-toneport"></span>
 
-additional notes
+About the Line 6 TonePort
 --------------------------------------------------------------------------------
 
 To connect my ukulele to my computer, I used a Line 6 Toneport interface.  With
@@ -76,3 +77,24 @@ of the interface says it supports guitar.  If it supports guitar, it will work
 with ukulele's as well.  You might also want to download the manual from the
 manufacturer's web site to get more information about the interface.
 
+<!-- ======================================================================= -->
+
+&nbsp;
+--------------------------------------------------------------------------------
+
+<p>
+<table>
+<tr>
+<td valign=top><img style="float:left; padding-right:1em;" src="../../res/pmuellr-headshot-80.jpg">
+<td valign=top>**Patrick Mueller** is a software developer living and working near Raleigh,
+North Carolina.  He sometimes posts to Twitter as 
+[@pmuellr](http://twitter.com/pmuellr) and dumps other stuff to his website at
+<http://muellerware.org> .
+<p>
+The source for this assignment is available at <https://github.com/pmuellr/mooc> 
+under the [Tumbolia Public License](../../LICENSE) 
+[.](http://dl.dropbox.com/u/2192156/mooc/2013-03-coursera-impmooc/assignment-1/lesson.html)
+</table>
+
+<br clear=all>
+<p>

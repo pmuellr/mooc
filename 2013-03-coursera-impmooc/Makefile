@@ -17,7 +17,7 @@ assignments: \
 	assignment-1/lesson.html	
 
 #-------------------------------------------------------------------------------
-assignment-1/lesson.html: assignment-1/lesson.md
+assignment-1/lesson.html: assignment-1/lesson.md template-beg.html template-end.html
 	@echo building $@
 	@cat template-beg.html                             > $@
 	@../node_modules/.bin/marked --gfm --no-breaks $< >> $@
