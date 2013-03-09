@@ -25,11 +25,9 @@ Equipment used for this lesson:
 
 To get started, let's hook all the cables up.
 
-Hooking Cables Up
---------------------------------------------------------------------------------
-
-Before hooking anything up, you want to dial down the output volume on your
-computer, to avoid any clicks or pops from plugging things in.
+Remember that before plugging cables, 
+you want to dial down the appropriate volume levels on your
+devices, to avoid any clicks or pops.
 
 1. Plug the electric guitar cable into your ukulele.
 2. Plug the other end of the guitar cable into the USB interface box.
@@ -66,9 +64,6 @@ USB cable plugged into computer:
 
 There you go, the signal from the ukulele can now make it all the way into your
 computer.
-
-Setting Input Device and Volume Levels
---------------------------------------------------------------------------------
 
 Before starting Live, let's make sure the volume level on the
 computer is set high enough.  This
@@ -145,6 +140,8 @@ by the red arrow - in order to hear the audio.  If it's set to "In", you
 won't be able to hear it.
 
 <img src="images/Live-5-Recorded.png">
+
+&nbsp;
 
 That's it!  Congratulations!  Now that you have some audio recorded in wave,
 there are lots of fun things you can do with it.
@@ -224,12 +221,11 @@ manufacturer's web site to get more information about the interface.
 <td valign=top><img src="../../res/pmuellr-headshot-80.jpg">
 <td valign=top style="padding-left:1em;" >**Patrick Mueller** is a software developer living and working near Raleigh,
 North Carolina.  He sometimes posts to Twitter as 
-[@pmuellr](http://twitter.com/pmuellr) and dumps other stuff to his website at
+[@pmuellr](http://twitter.com/pmuellr) and dumps other stuff to his web site
 <http://muellerware.org> .
-<p>
-The source for this assignment is available at <https://github.com/pmuellr/mooc> 
-under the [Tumbolia Public License](../../LICENSE) 
-[.](http://dl.dropbox.com/u/2192156/mooc/2013-03-coursera-impmooc/assignment-1/lesson.html)
+<p>The source for this assignment is available at <https://github.com/pmuellr/mooc> 
+under the [Tumbolia Public License](../../LICENSE).
+<p>A short link to this assignment is <http://goo.gl/2Tycf>
 </table>
 
 <br clear=all>
