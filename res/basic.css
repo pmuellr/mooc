@@ -4,11 +4,12 @@ body {
     font-family:        Verdana;
     font-size:          120%;
     margin:             1em 3em;
+    background-color:   #EEE;
 }
 
 h1, h2 {
     padding-bottom:     0.2em;
-    border-bottom:      thick solid #AAA;
+    border-bottom:      thick solid #AAF;
     text-shadow:        0.1em 0.1em 0.2em #aaa;
     color:              #33A;
 }
@@ -16,6 +17,12 @@ h1, h2 {
 a:hover {
     background-color:   #FFA;
     text-shadow:        0.1em 0.1em 0.2em #aaa;
+}
+
+img {
+    border-radius:      0.5em;
+    -moz-border-radius: 0.5em;
+    border:             thin solid #AAA;
 }
 
 /*
