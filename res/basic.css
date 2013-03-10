@@ -1,8 +1,33 @@
 /* Licensed under the Tumbolia Public License. See footer for details. */
 
+@media screen and (max-width: 480px) {
+    body {
+        font-size:          100%;
+    }
+
+    img {
+        width:              100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size:          100%;
+    }
+    
+    img {
+        width:              100%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        font-size:          140%;
+    }   
+}
+
 body {
     font-family:        Verdana;
-    font-size:          140%;
     margin:             1em 3em;
     background-color:   #EEE;
 }
