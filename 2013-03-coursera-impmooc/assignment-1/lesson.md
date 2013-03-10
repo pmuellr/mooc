@@ -18,20 +18,25 @@ Equipment used for this lesson:
 
 * [Lanikai LU-21TE/BK](http://lanikaiukes.com/laniblog/ukuleles/discontinued/lu-21tebk-tenor-size-ae-black-ukulele/) acoustic/electic ukulele
 * Standard electric guitar cable aka TS cable aka instrument cable
-* Line 6 Toneport guitar to USB interface box
+* Line 6 Toneport guitar to USB interface box (an older version of 
+  the [Line 6 Pod Studio](http://line6.com/podstudioux1/))
 * Standard USB cable
 * [Ableton Live 9](https://www.ableton.com/en/live/)
 * MacBook Pro
 
+The Line6 Toneport is an inexpensive audio interface well suited for guitar,
+but you can use any audio interface that will take an instrument input
+and allow you to plug into your computer.
+
 To get started, let's hook all the cables up.
 
-Remember that before plugging cables, 
+Remember that before plugging cables in, 
 you want to dial down the appropriate volume levels on your
 devices, to avoid any clicks or pops.
 
 1. Plug the electric guitar cable into your ukulele.
-2. Plug the other end of the guitar cable into the USB interface box.
-3. Plug the USB cable into the USB interface box.
+2. Plug the other end of the guitar cable into the Toneport.
+3. Plug the USB cable into the Toneport.
 4. Plug the other end of the USB cable into your computer.
 
 Here's a diagram of the hookup:
@@ -80,11 +85,8 @@ as indicated by the red arrow.
 
 &nbsp;
 
-Time to start Live.
-
-Now that everything is hooked up, we need to tell
-Ableton Live that we want to use the TonePort as an input device.  You do this
-from the Preferences Panel, in the Audio section.  On that page, there's a
+Time to start Live.  We need to set the TonePort as the audio input device.
+Do that from the Preferences Panel, in the Audio section.  On that page, there's a
 drop-down list labelled Audio Input Device.  The TonePort is listed here, so
 select it.  The Preferences Panel will then look like this:
 
@@ -96,7 +98,8 @@ Now we're ready to play with the Live user interface.  I like to work in
 Arrangement View (compared to Session View) and like most of the panels hidden.
 
 To hide panels, you can click the arrow buttons pointed to by the red arrows
-on the top left and bottom.  To switch between Arrangement and Session Views,
+on the top left and the two red arrows on the bottom.  To switch between 
+Arrangement and Session Views,
 use the buttons pointed to by the red arrow on the top right.
 
 <img src="images/Live-1-Initial-View.png">
@@ -147,7 +150,7 @@ That's it!  Congratulations!  Now that you have some audio recorded in wave,
 there are lots of fun things you can do with it.
 
 I recorded a short clip of the uke, and then applied three different audio
-effects to it, and uploaded them all to [SoundCloud](https://soundcloud.com/pmuellr),
+effects to it, and uploaded them all to [SoundCloud](https://soundcloud.com/),
 right from Live.
 
 Here are the clips:
@@ -161,6 +164,13 @@ Here are the clips:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82534127"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82534299"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F82534426"></iframe>
+
+One last tip for guitar/uke players.  You may want to invest in a MIDI-capable
+foot controller, which will allow you to have some control over your 
+software with your otherwise unused feet.  I use a 
+[Line 6 FBV Express MkII foot controller](http://line6.com/footcontrollers/fbvexpressmkii.html)
+plugged into my computer, and then assign the transport play, stop, and
+record buttons to the pedals using Live's MIDI remote control feature.
 
 <!--
 
@@ -228,5 +238,17 @@ under the [Tumbolia Public License](../../LICENSE).
 <p>A short link to this assignment is <http://goo.gl/2Tycf>
 </table>
 
-<br clear=all>
-<p>
+&nbsp;
+
+reflection
+--------------------------------------------------------------------------------
+
+I really like the assignment format of "create a lesson".  It's very true that 
+a great way to learn something is to try to teach it to someone else.  The 
+lesson content was pretty easy to put together, as I've been playing with Live
+for years.  But it was great to boil it down to the exact steps needed.  One
+thing that I realized was to check the System volume controls - I've forgotten
+to do that in the past.  Also, got a chance to play a bit with SoundCloud - 
+*very* nice!
+
+
