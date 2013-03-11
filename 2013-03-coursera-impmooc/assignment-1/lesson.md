@@ -228,7 +228,7 @@ manufacturer's web site to get more information about the interface.
 <p>
 <table>
 <tr>
-<td valign=top><img src="../../res/pmuellr-headshot-80.jpg">
+<td valign=top><img src="../../res/icon-032.png">
 <td valign=top style="padding-left:1em;" >**Patrick Mueller** is a software developer living and working near Raleigh,
 North Carolina.  He sometimes posts to Twitter as 
 [@pmuellr](http://twitter.com/pmuellr) and dumps other stuff to his web site
